@@ -1,0 +1,5 @@
+{
+  "name": "MARHABA COLLECTION",
+  "description": "A high-end, national-level fashion brand featuring a warm, inviting, and premium mobile-first shopping experience with AI-powered personalized lookbooks.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
